@@ -76,12 +76,17 @@ Anaconda 3 安裝 — Individual Edition
 ![](https://i.imgur.com/891zGdt.png)
 
 複製程式碼貼上
+![](https://i.imgur.com/Ken6veP.png)
+
+
+
 ```
 pip install -r requirements.txt
 
 ```
 
 跑完後，輸入程式碼
+![](https://i.imgur.com/PySHSv4.png)
 
 ```
 python DQO.py
